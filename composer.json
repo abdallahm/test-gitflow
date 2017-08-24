@@ -1,0 +1,10 @@
+{
+    "name": "timedoctor/test-gitflow",
+    "authors": [
+        {
+            "name": "Abdallah Mosen",
+            "email": "abdallahm@me.com"
+        }
+    ],
+    "require": {}
+}
